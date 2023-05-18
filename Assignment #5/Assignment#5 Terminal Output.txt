@@ -1,0 +1,651 @@
+Last login: Wed May 17 17:10:12 on console
+
+
+
+n: 20
+Minimum matrix-chain manipulations by Recursive: 1510
+Record by Recursive: ((A1(A2(A3(A4(A5(A6(A7(A8((A9A10)(((A11A12)A13)(A14(A15(A16(A17A18))))))))))))))A19)
+Time by Recursive: 62.5825 s
+Minimum matrix-chain manipulations by DP: 1510
+Record by DP: ((A1(A2(A3(A4(A5(A6(A7(A8((A9A10)(((A11A12)A13)(A14(A15(A16(A17A18))))))))))))))A19)
+Time by DP: 4.6e-05 s
+
+n: 15
+Minimum matrix-chain manipulations by Recursive: 1319
+Record by Recursive: ((A1(A2(A3(A4(A5(A6(A7(A8(A9A10)))))))))(((A11A12)A13)A14))
+Time by Recursive: 0.265458 s
+Minimum matrix-chain manipulations by DP: 1319
+Record by DP: ((A1(A2(A3(A4(A5(A6(A7(A8(A9A10)))))))))(((A11A12)A13)A14))
+Time by DP: 1.3e-05 s
+
+n: 30
+Minimum matrix-chain manipulations by Recursive: 0
+Record by Recursive: 
+Time by Recursive: 2e-06 s
+Minimum matrix-chain manipulations by DP: 3166
+Record by DP: ((A1(A2(A3(A4(A5(A6(A7(A8((A9A10)((((A11A12)A13)(A14(A15(A16(A17A18)))))((A19A20)(A21(A22(A23A24))))))))))))))((((A25A26)A27)A28)A29))
+Time by DP: 9.5e-05 s
+
+n: 50
+Minimum matrix-chain manipulations by Recursive: 0
+Record by Recursive: 
+Time by Recursive: 3e-06 s
+Minimum matrix-chain manipulations by DP: 6041
+Record by DP: ((A1(A2(A3(A4(A5(A6(A7(A8(A9A10)))))))))(((((((((((((((A11A12)A13)(A14(A15(A16(A17A18)))))((A19A20)(A21(A22(A23A24)))))((((((((((((((A25A26)A27)A28)A29)A30)A31)A32)A33)A34)A35)A36)A37)A38)A39))A40)A41)A42)A43)A44)A45)A46)A47)A48)A49))
+Time by DP: 0.000389 s
+
+
+n: 80
+Minimum matrix-chain manipulations by Recursive: 0
+Record by Recursive: 
+Time by Recursive: 2e-06 s
+Minimum matrix-chain manipulations by DP: 8563
+Record by DP: ((A1(A2(A3(A4(A5(A6(A7(A8(A9A10)))))))))(((((((((((((A11A12)A13)(A14(A15(A16(A17A18)))))((A19A20)(A21(A22(A23A24)))))((((((((((((((((((((((((((((((((((((((((((((((A25A26)A27)A28)A29)A30)A31)A32)A33)A34)A35)A36)A37)A38)A39)A40)A41)A42)A43)A44)A45)A46)A47)A48)A49)A50)A51)A52)A53)A54)A55)A56)A57)A58)A59)A60)A61)A62)A63)A64)A65)A66)A67)A68)A69)A70)A71))A72)A73)A74)A75)A76)A77)A78)A79))
+Time by DP: 0.001495 s
+
+
+n: 100
+Minimum matrix-chain manipulations by Recursive: 0
+Record by Recursive: 
+Time by Recursive: 3e-06 s
+Minimum matrix-chain manipulations by DP: 11072
+Record by DP: ((A1(A2(A3(A4(A5(A6(A7(A8(A9A10)))))))))(((((((((((((((((((((A11A12)A13)(A14(A15(A16(A17A18)))))((A19A20)(A21(A22(A23A24)))))((((((((((((((((((((((((((((((((((((((((((((((((((((((((((A25A26)A27)A28)A29)A30)A31)A32)A33)A34)A35)A36)A37)A38)A39)A40)A41)A42)A43)A44)A45)A46)A47)A48)A49)A50)A51)A52)A53)A54)A55)A56)A57)A58)A59)A60)A61)A62)A63)A64)A65)A66)A67)A68)A69)A70)A71)A72)A73)A74)A75)A76)A77)A78)A79)A80)A81)A82)A83))A84)A85)A86)A87)A88)A89)A90)A91)A92)A93)A94)A95)A96)A97)A98)A99))
+Time by DP: 0.002703 s
+
+n: 10
+Minimum matrix-chain manipulations by Recursive: 4312
+Record by Recursive: ((A1(A2(A3(A4(A5(A6(A7A8)))))))A9)
+Time by Recursive: 0.001095 s
+Minimum matrix-chain manipulations by DP: 4312
+Record by DP: ((A1(A2(A3(A4(A5(A6(A7A8)))))))A9)
+Time by DP: 7e-06 s
+          
+n: 15
+Minimum matrix-chain manipulations by Recursive: 1319
+Record by Recursive: ((A1(A2(A3(A4(A5(A6(A7(A8(A9A10)))))))))(((A11A12)A13)A14))
+Time by Recursive: 0.260109 s
+Minimum matrix-chain manipulations by DP: 1319
+Record by DP: ((A1(A2(A3(A4(A5(A6(A7(A8(A9A10)))))))))(((A11A12)A13)A14))
+Time by DP: 1.1e-05 s
+         
+n: 20
+Minimum matrix-chain manipulations by Recursive: 1510
+Record by Recursive: ((A1(A2(A3(A4(A5(A6(A7(A8((A9A10)(((A11A12)A13)(A14(A15(A16(A17A18))))))))))))))A19)
+Time by Recursive: 61.0527 s
+Minimum matrix-chain manipulations by DP: 1510
+Record by DP: ((A1(A2(A3(A4(A5(A6(A7(A8((A9A10)(((A11A12)A13)(A14(A15(A16(A17A18))))))))))))))A19)
+Time by DP: 2.3e-05 s
+
+n: 22
+Minimum matrix-chain manipulations by Recursive: 1578
+Record by Recursive: ((A1(A2(A3(A4(A5(A6(A7(A8(A9A10)))))))))(((((A11A12)A13)(A14(A15(A16(A17A18)))))(A19A20))A21))
+Time by Recursive: 546.913 s
+Minimum matrix-chain manipulations by DP: 1578
+Record by DP: ((A1(A2(A3(A4(A5(A6(A7(A8(A9A10)))))))))(((((A11A12)A13)(A14(A15(A16(A17A18)))))(A19A20))A21))
+Time by DP: 2.9e-05 s
+
+n: 10
+Minimum matrix-chain manipulations by Recursive: 4312
+Record by Recursive: ((A(B(C(D(E(F(GH)))))))I)
+Time by Recursive: 0.001012 s
+Minimum matrix-chain manipulations by DP: 4312
+Record by DP: ((A(B(C(D(E(F(GH)))))))I)
+Time by DP: 8e-06 s
+
+
+n: 24
+Minimum matrix-chain manipulations by Recursive: 1922
+Record by Recursive: ((A(B(C(D(E(F(G(H(IJ)))))))))(((((((KAL)M)(N(O(P(QR)))))(ST))U)V)W))
+Time by Recursive: 3203.89 s
+Minimum matrix-chain manipulations by DP: 1922
+Record by DP: ((A(B(C(D(E(F(G(H(IJ)))))))))(((((((KAL)M)(N(O(P(QR)))))(ST))U)V)W))
+Time by DP: 6.6e-05 s
+
+n: 23
+Minimum matrix-chain manipulations by Recursive: 1678
+Record by Recursive: ((A(B(C(D(E(F(G(H(IJ)))))))))((((((KL)M)(N(O(P(QR)))))(ST))U)V))
+Time by Recursive: 1068.32 s
+Minimum matrix-chain manipulations by DP: 1678
+Record by DP: ((A(B(C(D(E(F(G(H(IJ)))))))))((((((KL)M)(N(O(P(QR)))))(ST))U)V))
+Time by DP: 3.2e-05 s
+
+n: 22
+Minimum matrix-chain manipulations by Recursive: 1578
+Record by Recursive: ((A(B(C(D(E(F(G(H(IJ)))))))))(((((KL)M)(N(O(P(QR)))))(ST))U))
+Time by Recursive: 360.121 s
+Minimum matrix-chain manipulations by DP: 1578
+Record by DP: ((A(B(C(D(E(F(G(H(IJ)))))))))(((((KL)M)(N(O(P(QR)))))(ST))U))
+Time by DP: 2.8e-05 s
+Time by DP: 2.7e-05 s
+
+n: 21
+Minimum matrix-chain manipulations by Recursive: 1490
+Record by Recursive: ((A(B(C(D(E(F(G(H(IJ)))))))))((((KL)M)(N(O(P(QR)))))(ST)))
+Time by Recursive: 120.645 s
+Minimum matrix-chain manipulations by DP: 1490
+Record by DP: ((A(B(C(D(E(F(G(H(IJ)))))))))((((KL)M)(N(O(P(QR)))))(ST)))
+Time by DP: 2.5e-05 s
+
+n: 20
+Minimum matrix-chain manipulations by Recursive: 1136
+Record by Recursive: ((A(B(C(D(E(F(G(H(IJ)))))))))((((((((KL)M)N)O)P)Q)R)S))
+Time by Recursive: 41.6454 s
+Minimum matrix-chain manipulations by DP: 1136
+Record by DP: ((A(B(C(D(E(F(G(H(IJ)))))))))((((((((KL)M)N)O)P)Q)R)S))
+Time by DP: 2.2e-05 s
+
+n: 19
+Minimum matrix-chain manipulations by Recursive: 1406
+Record by Recursive: (A(B(C(D(E(F(G(H((IJ)(((KL)M)(N(O(P(QR))))))))))))))
+Time by Recursive: 13.3567 s
+Minimum matrix-chain manipulations by DP: 1406
+Record by DP: (A(B(C(D(E(F(G(H((IJ)(((KL)M)(N(O(P(QR))))))))))))))
+Time by DP: 2.1e-05 s
+
+n: 18
+Minimum matrix-chain manipulations by Recursive: 1479
+Record by Recursive: ((A(B(C(D(E(F(G(H(IJ)))))))))((((((KL)M)N)O)P)Q))
+Time by Recursive: 4.49651 s
+Minimum matrix-chain manipulations by DP: 1479
+Record by DP: ((A(B(C(D(E(F(G(H(IJ)))))))))((((((KL)M)N)O)P)Q))
+Time by DP: 2e-05 s
+
+n: 17
+Minimum matrix-chain manipulations by Recursive: 2335
+Record by Recursive: ((((((AB)(C(D(EF))))((((((GH)I)J)K)L)M))N)O)P)
+Time by Recursive: 1.49096 s
+Minimum matrix-chain manipulations by DP: 2335
+Record by DP: ((((((AB)(C(D(EF))))((((((GH)I)J)K)L)M))N)O)P)
+Time by DP: 1.5e-05 s
+
+n: 16
+Minimum matrix-chain manipulations by Recursive: 3972
+Record by Recursive: (A(B((CD)(((((EF)G)H)I)(J(K(L(M(NO)))))))))
+Time by Recursive: 0.490008 s
+Minimum matrix-chain manipulations by DP: 3972
+Record by DP: (A(B((CD)(((((EF)G)H)I)(J(K(L(M(NO)))))))))
+Time by DP: 1.3e-05 s
+
+n: 15
+Minimum matrix-chain manipulations by Recursive: 2070
+Record by Recursive: ((A(B(C(D(E(F(G(H(I(J(K(LM))))))))))))N)
+Time by Recursive: 0.158601 s
+Minimum matrix-chain manipulations by DP: 2070
+Record by DP: ((A(B(C(D(E(F(G(H(I(J(K(LM))))))))))))N)
+Time by DP: 1.2e-05 s
+
+n: 14
+Minimum matrix-chain manipulations by Recursive: 3006
+Record by Recursive: ((A(B(C(DE))))(((((((FG)H)I)J)K)L)M))
+Time by Recursive: 0.055243 s
+Minimum matrix-chain manipulations by DP: 3006
+Record by DP: ((A(B(C(DE))))(((((((FG)H)I)J)K)L)M))
+Time by DP: 1e-05 s
+
+n: 13
+Minimum matrix-chain manipulations by Recursive: 2838
+Record by Recursive: ((A(BC))((((((((DE)F)G)H)I)J)K)L))
+Time by Recursive: 0.018158 s
+Minimum matrix-chain manipulations by DP: 2838
+Record by DP: ((A(BC))((((((((DE)F)G)H)I)J)K)L))
+Time by DP: 8e-06 s
+n: 12
+Minimum matrix-chain manipulations by Recursive: 3064
+Record by Recursive: ((A(B(C(D(E(FG))))))(((HI)J)K))
+Time by Recursive: 0.005975 s
+Minimum matrix-chain manipulations by DP: 3064
+Record by DP: ((A(B(C(D(E(FG))))))(((HI)J)K))
+Time by DP: 7e-06 s
+
+n: 11
+Minimum matrix-chain manipulations by Recursive: 10725
+Record by Recursive: ((A(B(CD)))(((((EF)G)H)I)J))
+Time by Recursive: 0.002037 s
+Minimum matrix-chain manipulations by DP: 10725
+Record by DP: ((A(B(CD)))(((((EF)G)H)I)J))
+Time by DP: 5e-06 s
+
+n: 10
+Minimum matrix-chain manipulations by Recursive: 1077
+Record by Recursive: ((A(B(CD)))((((EF)G)H)I))
+Time by Recursive: 0.000734 s
+Minimum matrix-chain manipulations by DP: 1077
+Record by DP: ((A(B(CD)))((((EF)G)H)I))
+Time by DP: 4e-06 s
+
+n: 9
+Minimum matrix-chain manipulations by Recursive: 1485
+Record by Recursive: ((A(B(C(D(EF)))))(GH))
+Time by Recursive: 0.000245 s
+Minimum matrix-chain manipulations by DP: 1485
+Record by DP: ((A(B(C(D(EF)))))(GH))
+Time by DP: 4e-06 s
+
+n: 8
+Minimum matrix-chain manipulations by Recursive: 1540
+Record by Recursive: ((((((AB)C)D)E)F)G)
+Time by Recursive: 0.000111 s
+Minimum matrix-chain manipulations by DP: 1540
+Record by DP: ((((((AB)C)D)E)F)G)
+Time by DP: 4e-06 s
+
+n: 7
+Minimum matrix-chain manipulations by Recursive: 1051
+Record by Recursive: ((A(BC))((DE)F))
+Time by Recursive: 4.4e-05 s
+Minimum matrix-chain manipulations by DP: 1051
+Record by DP: ((A(BC))((DE)F))
+Time by DP: 3e-06 s
+
+n: 6
+Minimum matrix-chain manipulations by Recursive: 4684
+Record by Recursive: (A(B(C(DE))))
+Time by Recursive: 2.7e-05 s
+Minimum matrix-chain manipulations by DP: 4684
+Record by DP: (A(B(C(DE))))
+Time by DP: 3e-06 s
+
+n: 5
+Minimum matrix-chain manipulations by Recursive: 110
+Record by Recursive: (A((BC)D))
+Time by Recursive: 3e-06 s
+Minimum matrix-chain manipulations by DP: 110
+Record by DP: (A((BC)D))
+Time by DP: 2e-06 s
+
+n: 4
+Minimum matrix-chain manipulations by Recursive: 2541
+Record by Recursive: ((AB)C)
+Time by Recursive: 2e-06 s
+Minimum matrix-chain manipulations by DP: 2541
+Record by DP: ((AB)C)
+Time by DP: 2e-06 s
+
+n: 3
+Minimum matrix-chain manipulations by Recursive: 75
+Record by Recursive: (AB)
+Time by Recursive: 0 s
+Minimum matrix-chain manipulations by DP: 75
+Record by DP: (AB)
+Time by DP: 2e-06 s
+
+
+n: 25
+Minimum matrix-chain manipulations by DP: 3846
+Record by DP: (((((((((((((((((((((((A1A2)A3)A4)A5)A6)A7)A8)A9)A10)A11)A12)A13)A14)A15)A16)A17)A18)A19)A20)A21)A22)A23)A24)
+Time by DP: 8.1e-05 s
+
+n: 26
+Minimum matrix-chain manipulations by DP: 4364
+Record by DP: (A1((((((((((((A2A3)A4)A5)A6)A7)A8)A9)A10)A11)(A12(A13(A14A15))))(((A16A17)A18)(A19(A20(A21A22)))))((A23A24)A25)))
+Time by DP: 8.2e-05 s
+
+n: 27
+Minimum matrix-chain manipulations by DP: 6134
+Record by DP: ((A1((A2(A3(A4(A5(A6(A7A8))))))((((((((((A9A10)A11)A12)A13)A14)A15)A16)A17)A18)(A19(A20(A21(A22(A23(A24A25)))))))))A26)
+Time by DP: 8.5e-05 s
+
+n: 28
+Minimum matrix-chain manipulations by DP: 4042
+Record by DP: ((A1(A2(A3(A4(A5(A6(A7(A8(A9(A10(A11(A12(A13(A14(A15(A16(A17A18)))))))))))))))))((((((((A19A20)A21)A22)A23)A24)A25)A26)A27))
+Time by DP: 9.1e-05 s
+
+n: 29
+Minimum matrix-chain manipulations by DP: 3650
+Record by DP: ((A1(A2(A3(A4(A5(A6(A7(A8(A9((A10(A11(A12(A13(A14(A15A16))))))(((((((((A17A18)A19)A20)A21)A22)A23)A24)A25)(A26A27))))))))))))A28)
+Time by DP: 0.000108 s
+
+n: 30
+Minimum matrix-chain manipulations by DP: 3005
+Record by DP: ((A1(A2(A3(A4(A5(A6A7))))))(((((((((((((((((((((A8A9)A10)A11)A12)A13)A14)A15)A16)A17)A18)A19)A20)A21)A22)A23)A24)A25)A26)A27)A28)A29))
+Time by DP: 0.000118 s
+
+n: 31
+Minimum matrix-chain manipulations by DP: 3958
+Record by DP: (((((((((((((((((((((((((((((A1A2)A3)A4)A5)A6)A7)A8)A9)A10)A11)A12)A13)A14)A15)A16)A17)A18)A19)A20)A21)A22)A23)A24)A25)A26)A27)A28)A29)A30)
+Time by DP: 0.000145 s
+
+n: 32
+Minimum matrix-chain manipulations by DP: 3775
+Record by DP: ((A1(A2(A3(A4(A5(A6(A7(A8(A9((A10A11)((A12A13)(A14(A15(A16(A17(A18(A19A20)))))))))))))))))((((((((((A21A22)A23)A24)A25)A26)A27)A28)A29)A30)A31))
+Time by DP: 0.000152 s
+
+n: 33
+Minimum matrix-chain manipulations by DP: 3695
+Record by DP: ((A1(A2(A3(A4((A5(A6(A7(A8(A9(A10A11))))))(((A12A13)(A14A15))((A16A17)(A18(A19A20)))))))))(((((((((((A21A22)A23)A24)A25)A26)A27)A28)A29)A30)A31)A32))
+Time by DP: 0.000147 s
+
+n: 34
+Minimum matrix-chain manipulations by DP: 4568
+Record by DP: ((A1(A2(A3(A4(A5(A6(A7(A8(A9(A10(A11(A12(A13(A14(A15(A16(A17(A18A19))))))))))))))))))(((((((((((((A20A21)A22)A23)A24)A25)A26)A27)A28)A29)A30)A31)A32)A33))
+Time by DP: 0.000162 s
+
+n: 35
+Minimum matrix-chain manipulations by DP: 4117
+Record by DP: (A1(A2(A3(A4(A5((A6(A7(A8(A9(A10(A11(A12(A13(A14(A15A16))))))))))((A17A18)(((A19A20)A21)((((A22A23)A24)(A25(A26A27)))(A28(A29(A30(A31(A32(A33A34)))))))))))))))
+Time by DP: 0.000193 s
+
+n: 36
+Minimum matrix-chain manipulations by DP: 3260
+Record by DP: (A1(A2(A3(A4(A5(A6(A7((A8(A9(A10(A11(A12(A13(A14(A15(A16(A17(A18(A19(A20(A21(A22(A23(A24(A25(A26(A27(A28A29)))))))))))))))))))))((A30(A31A32))((A33A34)A35))))))))))
+Time by DP: 0.000188 s
+
+n: 37
+Minimum matrix-chain manipulations by DP: 4126
+Record by DP: ((A1(A2((A3(A4(A5A6)))((((((A7A8)A9)A10)A11)(A12(A13(A14(A15(A16(A17A18)))))))(((((((((A19A20)A21)A22)A23)A24)A25)A26)A27)(A28(A29(A30(A31(A32(A33(A34A35))))))))))))A36)
+Time by DP: 0.000221 s
+
+n: 38
+Minimum matrix-chain manipulations by DP: 3086
+Record by DP: ((A1((((A2A3)A4)(A5A6))((((A7A8)A9)(A10A11))((((A12A13)A14)(A15(A16(A17(A18(A19(A20(A21(A22(A23(A24(A25(A26(A27(A28A29)))))))))))))))(((((A30A31)A32)A33)A34)(A35A36))))))A37)
+Time by DP: 0.000203 s
+
+n: 39
+Minimum matrix-chain manipulations by DP: 4085
+Record by DP: ((A1(A2(A3(A4(A5(A6(A7(A8(A9(A10(A11(A12A13))))))))))))((((((((((((((((A14A15)A16)A17)A18)A19)A20)A21)A22)A23)A24)(((A25A26)A27)(A28A29)))((((A30A31)A32)A33)A34))A35)A36)A37)A38))
+Time by DP: 0.000219 s
+
+n: 40
+Minimum matrix-chain manipulations by DP: 3120
+Record by DP: ((A1(A2((A3A4)(A5((((((((((((((((((A6A7)A8)A9)A10)A11)A12)A13)A14)A15)A16)A17)A18)A19)A20)A21)A22)A23)(A24(A25(A26(A27(A28(A29(A30(A31(A32(A33(A34(A35(A36A37))))))))))))))))))(A38A39))
+Time by DP: 0.000157 s
+
+n: 41
+Minimum matrix-chain manipulations by DP: 4433
+Record by DP: ((A1(A2(A3(A4(A5(A6(A7(A8(A9(A10(A11(A12A13))))))))))))((((A14(A15(A16(A17(A18(A19(A20(A21(A22(A23(A24(A25(A26(A27(A28(A29(A30(A31(A32(A33A34))))))))))))))))))))(A35A36))((A37A38)A39))A40))
+Time by DP: 0.000178 s
+
+n: 42
+Minimum matrix-chain manipulations by DP: 5927
+Record by DP: ((A1(A2(A3(A4(A5(A6(A7(A8(A9(A10(A11(A12(A13(A14(A15(A16(A17(A18(A19(A20(A21(A22(A23(A24(A25(A26A27))))))))))))))))))))))))))(((((((((((((A28A29)A30)A31)A32)A33)A34)A35)A36)A37)A38)A39)A40)A41))
+Time by DP: 0.000174 s
+
+n: 43
+Minimum matrix-chain manipulations by DP: 4706
+Record by DP: ((A1(A2(A3(A4(A5(A6(A7(A8(A9(A10(A11(A12(A13(A14(A15(A16(A17(A18(A19(A20(A21(A22(A23(A24(A25(A26(A27(A28(A29(A30(A31(A32(A33(A34(A35(A36(A37(A38(A39A40)))))))))))))))))))))))))))))))))))))))(A41A42))
+Time by DP: 0.00023 s
+
+n: 44
+Minimum matrix-chain manipulations by DP: 11162
+Record by DP: ((A1(A2(A3(A4(A5(A6((A7(A8(A9(A10(A11A12)))))(((A13A14)A15)(((((A16A17)A18)A19)(A20(A21A22)))(((((((((((A23A24)A25)A26)A27)A28)A29)A30)A31)A32)A33)(A34(A35(A36(A37(A38A39)))))))))))))))(((A40A41)A42)A43))
+Time by DP: 0.000204 s
+
+n: 45
+Minimum matrix-chain manipulations by DP: 10356
+Record by DP: ((A1(A2(A3(A4(A5(A6(A7(A8(A9(A10(A11(A12(A13(A14(A15(A16(A17(A18(A19(A20(A21(A22(A23(A24(A25(A26(A27(A28(A29(A30(A31((A32(A33(A34(A35A36))))((((A37A38)A39)(A40(A41A42)))A43)))))))))))))))))))))))))))))))))A44)
+Time by DP: 0.000207 s
+
+n: 46
+Minimum matrix-chain manipulations by DP: 5270
+Record by DP: (A1(A2(A3(A4(A5(A6(A7(A8(A9(A10(A11(A12((A13A14)((((((((((((A15A16)A17)A18)A19)A20)A21)A22)A23)A24)A25)A26)(A27(A28(A29(A30(A31(A32(A33(A34(A35(A36(A37(A38(A39(A40(A41(A42(A43(A44A45))))))))))))))))))))))))))))))))
+Time by DP: 0.000226 s
+
+n: 47
+Minimum matrix-chain manipulations by DP: 4673
+Record by DP: ((A1(A2(A3(A4(A5(A6(A7(A8(A9(A10(A11(A12(A13(A14(A15(A16A17))))))))))))))))((A18((((A19A20)A21)(A22(A23(A24(A25(A26(A27(A28(A29(A30(A31(A32(A33(A34(A35(A36A37))))))))))))))))(A38(A39(A40(A41A42))))))(((A43A44)A45)A46)))
+Time by DP: 0.000236 s
+
+n: 48
+Minimum matrix-chain manipulations by DP: 5039
+Record by DP: (((A1(A2(A3A4)))(A5(((((((((A6A7)A8)A9)A10)A11)A12)A13)(A14A15))(A16(((((((((((((((((((A17A18)A19)A20)A21)A22)A23)A24)A25)A26)A27)A28)A29)A30)A31)A32)A33)A34)A35)(A36(A37(A38(A39(A40(A41(A42(A43(A44A45))))))))))))))(A46A47))
+Time by DP: 0.00028 s
+
+n: 49
+Minimum matrix-chain manipulations by DP: 4073
+Record by DP: ((A1(A2(A3A4)))(((((A5A6)((((((((((((A7A8)A9)A10)A11)A12)A13)A14)A15)A16)A17)(A18A19))(A20A21)))((((((((((((((((((((((((A22A23)A24)A25)A26)A27)A28)A29)A30)A31)A32)A33)A34)A35)A36)A37)A38)A39)A40)A41)A42)A43)A44)A45)A46))A47)A48))
+Time by DP: 0.000278 s
+
+n: 50
+Minimum matrix-chain manipulations by DP: 6417
+Record by DP: ((A1(A2(A3(A4(A5(A6(A7(A8(A9(A10A11))))))))))(((((((((((((((((((((((((((((((((((((A12A13)A14)A15)A16)A17)A18)A19)A20)A21)A22)A23)A24)A25)A26)A27)A28)A29)A30)A31)A32)A33)A34)A35)A36)A37)A38)A39)A40)A41)A42)A43)A44)A45)A46)A47)A48)A49))
+Time by DP: 0.000305 s
+
+n: 51
+Minimum matrix-chain manipulations by DP: 6431
+Record by DP: ((A1((A2(A3(A4A5)))((((((((((((((A6A7)A8)A9)A10)A11)A12)A13)A14)A15)A16)A17)A18)(A19(A20(A21(A22(A23(A24A25)))))))((A26A27)((A28(A29(A30(A31(A32(A33(A34(A35A36))))))))(((A37A38)(A39(A40A41)))(A42A43)))))))((((((A44A45)A46)A47)A48)A49)A50))
+Time by DP: 0.000304 s
+
+n: 52
+Minimum matrix-chain manipulations by DP: 3941
+Record by DP: ((A1(A2(A3A4)))(((((((((((A5(A6(A7(A8(A9(A10(A11(A12(A13(A14(A15(A16(A17(A18(A19(A20(A21(A22(A23(A24(A25(A26(A27(A28(A29(A30A31))))))))))))))))))))))))))((A32A33)(A34(A35(A36(A37(A38A39)))))))(((A40A41)A42)A43))A44)A45)A46)A47)A48)A49)A50)A51))
+Time by DP: 0.000317 s
+
+n: 53
+Minimum matrix-chain manipulations by DP: 6976
+Record by DP: ((A1(A2(A3((A4(A5(A6(A7A8))))((A9(A10(A11(A12(A13(A14(A15(A16(A17(A18(A19(A20(A21(A22(A23(A24(A25A26)))))))))))))))))((((((A27A28)A29)A30)A31)A32)(A33(A34A35))))))))((((((((((((((((A36A37)A38)A39)A40)A41)A42)A43)A44)A45)A46)A47)A48)A49)A50)A51)A52))
+Time by DP: 0.000335 s
+
+n: 54
+Minimum matrix-chain manipulations by DP: 6379
+Record by DP: ((A1((A2(A3(A4(A5(A6A7)))))(((((A8A9)A10)A11)(A12A13))((((((A14A15)A16)A17)A18)A19)(A20(A21(A22(A23(A24(A25(A26(A27(A28(A29(A30(A31(A32(A33(A34(A35(A36(A37(A38A39)))))))))))))))))))))))(((((((((((((A40A41)A42)A43)A44)A45)A46)A47)A48)A49)A50)A51)A52)A53))
+Time by DP: 0.000352 s
+
+n: 55
+Minimum matrix-chain manipulations by DP: 6237
+Record by DP: ((A1(A2(A3(A4(A5(A6(A7A8)))))))(((((((((((((((((((((((((((((((A9A10)A11)A12)A13)(A14(A15(A16(A17(A18(A19(A20(A21(A22A23))))))))))(((((A24A25)A26)A27)A28)A29))A30)A31)A32)A33)A34)A35)A36)A37)A38)A39)A40)A41)A42)A43)A44)A45)A46)A47)A48)A49)A50)A51)A52)A53)A54))
+Time by DP: 0.000372 s
+
+n: 56
+Minimum matrix-chain manipulations by DP: 8168
+Record by DP: ((A1(A2(A3(A4(A5(A6(A7(A8(A9(A10(A11(A12(A13(A14(A15A16)))))))))))))))((((((((((((((((((((((((((((((((((((((A17A18)A19)A20)A21)A22)A23)A24)A25)A26)A27)A28)A29)A30)A31)A32)A33)A34)A35)A36)A37)A38)A39)A40)A41)A42)A43)A44)A45)A46)A47)A48)A49)A50)A51)A52)A53)A54)A55))
+Time by DP: 0.000387 s
+
+n: 57
+Minimum matrix-chain manipulations by DP: 5024
+Record by DP: ((A1(A2(A3(A4(A5(A6(A7(A8(A9(A10(A11(A12(A13(A14(A15(A16(A17(A18(A19(A20(A21(A22(A23(A24(A25(A26(A27(A28(A29((A30(A31(A32A33)))(A34(((A35A36)(A37(A38A39)))((((A40A41)A42)(A43A44))(A45A46))))))))))))))))))))))))))))))))))(((((((((A47A48)A49)A50)A51)A52)A53)A54)A55)A56))
+Time by DP: 0.000423 s
+
+n: 58
+Minimum matrix-chain manipulations by DP: 5626
+Record by DP: ((A1(A2(A3(A4(A5(A6(A7(A8(A9(A10(A11(A12(A13(A14(A15((A16(A17(A18(A19(A20(A21(A22A23)))))))(((A24A25)(A26(A27(A28(A29A30)))))(((((((((A31A32)A33)A34)A35)A36)A37)A38)A39)(A40(A41(A42(A43(A44(A45(A46(A47(A48(A49(A50(A51(A52A53)))))))))))))))))))))))))))))))(((A54A55)A56)A57))
+Time by DP: 0.000438 s
+
+n: 59
+Minimum matrix-chain manipulations by DP: 7442
+Record by DP: ((A1(A2(A3(A4(A5(A6(A7(A8(A9(A10(A11(A12(A13(A14(A15(A16(A17(A18(A19(A20(A21(A22(A23(A24(A25(A26(A27(A28(A29(A30(A31(A32(A33(A34(A35(A36(A37(A38(A39A40)))))))))))))))))))))))))))))))))))))))(((((((((((((((((A41A42)A43)A44)A45)A46)A47)A48)A49)A50)A51)A52)A53)A54)A55)A56)A57)A58))
+Time by DP: 0.000456 s
+
+n: 60
+Minimum matrix-chain manipulations by DP: 4672
+Record by DP: (A1(((((((A2A3)A4)(A5A6))((A7(A8(A9(A10(A11(A12(A13(A14(A15A16)))))))))(((((A17A18)A19)A20)(A21(A22(A23(A24A25)))))((A26A27)(A28(A29(A30(A31(A32(A33(A34(A35(A36(A37(A38(A39A40))))))))))))))))((((((((((((((((A41A42)A43)A44)A45)A46)A47)A48)A49)A50)A51)A52)A53)A54)A55)A56)A57))A58)A59))
+Time by DP: 0.000509 s
+
+n: 61
+Minimum matrix-chain manipulations by DP: 22620
+Record by DP: (((A1A2)(A3(A4(A5(A6(A7(A8A9)))))))((A10(A11(A12(A13(A14(A15A16))))))(((((A17A18)A19)A20)(A21(A22(A23(A24(A25A26))))))((A27(A28A29))(((A30A31)(A32(A33(A34(A35(A36(A37A38)))))))((((((A39A40)A41)A42)A43)(A44A45))((A46(A47(A48(A49A50))))(A51(A52(A53(A54(A55(A56(A57(A58(A59A60))))))))))))))))
+Time by DP: 0.000492 s
+
+n: 62
+Minimum matrix-chain manipulations by DP: 6060
+Record by DP: ((A1(A2(A3(A4(A5(A6(A7(A8(A9(A10(A11(A12(A13(A14(A15(A16((A17(A18(A19(A20(A21(A22(A23(A24(A25(A26(A27(A28A29))))))))))))((((((A30A31)A32)A33)A34)(A35(A36(A37A38))))((((((((((A39A40)A41)A42)A43)A44)A45)A46)A47)A48)(A49(A50(A51(A52A53)))))))))))))))))))))))(((((((A54A55)A56)A57)A58)A59)A60)A61))
+Time by DP: 0.000519 s
+
+n: 63
+Minimum matrix-chain manipulations by DP: 6101
+Record by DP: ((A1(A2(A3(A4(A5(A6(A7((A8(A9(A10(A11(A12(A13(A14(A15(A16(A17A18))))))))))((((((((A19A20)A21)A22)A23)A24)A25)(A26(A27(A28(A29(A30(A31(A32(A33(A34(A35(A36(A37(A38(A39(A40(A41A42)))))))))))))))))(((((((((((A43A44)A45)A46)A47)A48)A49)A50)A51)A52)A53)(A54(A55(A56(A57A58))))))))))))))(((A59A60)A61)A62))
+Time by DP: 0.000538 s
+
+n: 64
+Minimum matrix-chain manipulations by DP: 7765
+Record by DP: ((A1(A2(A3(A4(A5(A6(A7A8)))))))((((((((((((((((((((((((((((((((((((((((((((((((((((((A9A10)A11)A12)A13)A14)A15)A16)A17)A18)A19)A20)A21)A22)A23)A24)A25)A26)A27)A28)A29)A30)A31)A32)A33)A34)A35)A36)A37)A38)A39)A40)A41)A42)A43)A44)A45)A46)A47)A48)A49)A50)A51)A52)A53)A54)A55)A56)A57)A58)A59)A60)A61)A62)A63))
+Time by DP: 0.000574 s
+
+n: 65
+Minimum matrix-chain manipulations by DP: 7208
+Record by DP: ((A1(A2(A3(A4(A5(A6(A7(A8(A9A10)))))))))((((((((((A11A12)A13)A14)A15)(A16(A17(A18(A19(A20(A21(A22(A23A24)))))))))((((A25A26)A27)(A28(A29A30)))((((A31A32)A33)(A34(A35(A36A37))))(A38A39))))(((((((((((((((((((((A40A41)A42)A43)A44)A45)A46)A47)A48)A49)A50)A51)A52)A53)A54)A55)A56)A57)A58)A59)A60)A61))A62)A63)A64))
+Time by DP: 0.000579 s
+
+n: 66
+Minimum matrix-chain manipulations by DP: 8093
+Record by DP: ((A1(((((((((((((((((((((((((((((((A2A3)A4)A5)A6)A7)A8)A9)A10)A11)A12)A13)A14)A15)A16)A17)A18)A19)A20)A21)A22)A23)A24)A25)A26)A27)A28)A29)A30)A31)(A32(A33(A34A35))))((((A36A37)A38)A39)(A40(A41(A42(A43(A44(A45(A46(A47(A48(A49(A50(A51(A52(A53(A54(A55(A56(A57(A58(A59(A60(A61(A62(A63A64)))))))))))))))))))))))))))A65)
+Time by DP: 0.000612 s
+
+n: 67
+Minimum matrix-chain manipulations by DP: 9194
+Record by DP: (A1((((((((((((((((A2A3)A4)A5)A6)A7)A8)A9)A10)(A11(A12(A13(A14(A15(A16(A17(A18(A19(A20(A21(A22(A23(A24(A25(A26(A27(A28(A29(A30(A31(A32(A33(A34A35)))))))))))))))))))))))))(((A36A37)(A38(A39(A40(A41(A42(A43(A44(A45(A46(A47(A48(A49(A50A51))))))))))))))((((((A52A53)A54)A55)A56)A57)A58)))((A59A60)A61))A62)A63)A64)A65)A66))
+Time by DP: 0.000781 s
+
+n: 68
+Minimum matrix-chain manipulations by DP: 7599
+Record by DP: ((A1(A2(A3(A4(A5(A6((A7A8)(((((A9A10)A11)A12)(A13A14))((A15(A16(A17(A18(A19(A20(A21(A22(A23(A24(A25(A26(A27(A28(A29(A30(A31(A32(A33(A34(A35(A36(A37(A38(A39(A40(A41(A42(A43(A44(A45(A46A47))))))))))))))))))))))))))))))))((A48A49)(A50(A51(A52(A53(A54(A55(A56(A57(A58(A59(A60A61)))))))))))))))))))))(((((A62A63)A64)A65)A66)A67))
+Time by DP: 0.000647 s
+
+n: 69
+Minimum matrix-chain manipulations by DP: 7069
+Record by DP: ((A1(A2(A3A4)))(((((((((((((((((A5A6)A7)A8)A9)A10)A11)A12)A13)A14)A15)A16)A17)A18)A19)(A20(A21(A22(A23(A24(A25(A26(A27(A28A29))))))))))(((((((A30A31)A32)A33)A34)A35)(A36(A37(A38(A39(A40(A41(A42A43))))))))(((((A44A45)A46)A47)A48)(A49(A50(A51(A52(A53(A54(A55(A56(A57A58))))))))))))(((((((((A59A60)A61)A62)A63)A64)A65)A66)A67)A68)))
+Time by DP: 0.000689 s
+
+n: 70
+Minimum matrix-chain manipulations by DP: 8965
+Record by DP: ((A1(A2(A3(A4(A5(A6(A7(A8(A9(A10(A11(A12(A13(A14(A15(A16(A17(A18(A19(A20(A21(A22(A23(A24(A25(A26(A27(A28(A29(A30(A31(A32(A33(A34(A35(A36(A37(A38(A39(A40(A41(A42(A43(A44(A45A46)))))))))))))))))))))))))))))))))))))))))))))((((A47A48)((((((((((((((((((A49A50)A51)A52)A53)A54)A55)A56)A57)A58)A59)A60)A61)A62)A63)A64)A65)A66)A67))A68)A69))
+Time by DP: 0.000741 s
+
+n: 71
+Minimum matrix-chain manipulations by DP: 7738
+Record by DP: ((A1(A2(A3(A4(A5(A6(A7A8)))))))(((((((A9A10)A11)A12)A13)(A14A15))(((((((((((A16A17)A18)A19)A20)A21)A22)A23)A24)A25)A26)((((((((A27A28)A29)A30)A31)A32)A33)(A34A35))((A36(A37(A38A39)))(((A40A41)A42)((((A43A44)A45)(A46(A47(A48(A49(A50(A51(A52(A53(A54(A55A56)))))))))))((((A57A58)A59)A60)(A61(A62(A63(A64(A65A66))))))))))))(((A67A68)A69)A70)))
+Time by DP: 0.000735 s
+
+n: 72
+Minimum matrix-chain manipulations by DP: 7320
+Record by DP: ((A1(A2(A3(A4(A5(A6(A7(A8(A9(A10(A11(A12(A13(A14(A15(A16(A17(A18(A19(A20(A21(A22(A23(A24(A25(A26(A27A28)))))))))))))))))))))))))))((((((((((A29A30)A31)A32)A33)A34)A35)(A36(A37(A38(A39(A40(A41(A42(A43(A44(A45(A46(A47(A48(A49(A50(A51(A52(A53(A54(A55(A56(A57(A58(A59(A60A61))))))))))))))))))))))))))(((((A62A63)A64)A65)A66)A67))((A68A69)A70))A71))
+Time by DP: 0.000759 s
+
+n: 73
+Minimum matrix-chain manipulations by DP: 8945
+Record by DP: (A1(((((((((((((((((((((((A2A3)A4)A5)A6)A7)A8)A9)A10)A11)A12)A13)A14)(A15(A16(A17(A18(A19(A20(A21(A22(A23(A24(A25(A26(A27(A28(A29(A30(A31(A32(A33(A34(A35(A36(A37(A38(A39(A40(A41(A42(A43(A44(A45(A46(A47(A48(A49(A50(A51(A52(A53(A54(A55(A56(A57(A58(A59A60))))))))))))))))))))))))))))))))))))))))))))))((A61A62)A63))A64)A65)A66)A67)A68)A69)A70)A71)A72))
+Time by DP: 0.000799 s
+
+n: 74
+Minimum matrix-chain manipulations by DP: 6677
+Record by DP: ((A1(A2(A3(A4(A5(A6(A7(A8(A9(A10(A11(A12(A13(A14(A15(A16(A17(A18(A19(A20(A21(A22(A23(A24((A25(A26(A27(A28(A29(A30(A31(A32(A33(A34(A35(A36(A37(A38A39))))))))))))))(((((((((((((((((A40A41)A42)A43)A44)A45)A46)A47)A48)A49)A50)A51)A52)A53)A54)A55)(A56(A57(A58(A59(A60(A61(A62(A63(A64(A65(A66A67))))))))))))((A68A69)(A70A71))))))))))))))))))))))))))))(A72A73))
+Time by DP: 0.000827 s
+
+n: 75
+Minimum matrix-chain manipulations by DP: 6460
+Record by DP: (((((((((((((A1A2)A3)A4)A5)A6)A7)A8)A9)A10)A11)(A12(A13(A14(A15(A16(A17(A18(A19(A20(A21(A22(A23(A24(A25(A26(A27(A28(A29(A30(A31(A32(A33(A34(A35(A36(A37(A38(A39(A40(A41(A42(A43(A44(A45A46)))))))))))))))))))))))))))))))))))((((((((A47A48)A49)A50)A51)A52)A53)(A54(A55(A56A57))))(A58((A59A60)(A61(A62(A63A64)))))))(((((((((A65A66)A67)A68)A69)A70)A71)A72)A73)A74))
+Time by DP: 0.000871 s
+
+n: 76
+Minimum matrix-chain manipulations by DP: 8716
+Record by DP: ((A1(A2(A3(A4(A5(A6A7))))))(((((((((((((((((((((((A8A9)A10)A11)A12)A13)A14)A15)A16)A17)A18)(((A19A20)(A21(A22(A23A24))))((A25A26)((A27(A28(A29(A30(A31(A32(A33(A34(A35(A36(A37(A38(A39(A40(A41(A42(A43(A44(A45A46)))))))))))))))))))(((A47A48)A49)(A50(A51(A52(A53(A54(A55(A56(A57A58)))))))))))))(((((A59A60)A61)A62)A63)A64))A65)A66)A67)A68)A69)A70)A71)A72)A73)A74)A75))
+Time by DP: 0.00089 s
+
+n: 77
+Minimum matrix-chain manipulations by DP: 7561
+Record by DP: ((A1(A2(A3((A4(A5(A6(A7A8))))(((((A9A10)A11)A12)(A13A14))(((((((A15A16)A17)A18)A19)A20)(A21(A22(A23(A24(A25(A26A27)))))))((((((A28A29)A30)A31)A32)A33)((A34A35)(((((((((((((A36A37)A38)A39)A40)A41)A42)A43)A44)A45)A46)A47)(A48(A49(A50(A51(A52(A53(A54(A55(A56(A57(A58(A59A60)))))))))))))(((A61A62)A63)(A64(A65(A66(A67(A68(A69(A70(A71(A72A73)))))))))))))))))))((A74A75)A76))
+Time by DP: 0.000921 s
+
+n: 78
+Minimum matrix-chain manipulations by DP: 9799
+Record by DP: ((A1(A2(A3(A4(A5(A6(A7(A8(A9(A10(A11(A12(A13(A14(A15(A16(A17(A18(A19(A20(A21(A22(A23(A24(A25(A26(A27(A28(A29(A30(A31(A32(A33(A34A35))))))))))))))))))))))))))))))))))(((((((((((((((((A36A37)A38)(A39A40))(((((((((((((((((((A41A42)A43)A44)A45)A46)A47)A48)A49)A50)A51)A52)A53)A54)A55)A56)A57)A58)A59)A60))((((A61A62)A63)A64)A65))A66)A67)A68)A69)A70)A71)A72)A73)A74)A75)A76)A77))
+Time by DP: 0.000957 s
+
+n: 79
+Minimum matrix-chain manipulations by DP: 9535
+Record by DP: ((A1(A2(A3(A4(A5(A6(A7(A8(A9(A10(A11(A12(A13(A14(A15(A16(A17(A18(A19(A20(A21(A22(A23(A24(A25(A26(A27(A28(A29(A30A31))))))))))))))))))))))))))))))((((((((A32A33)A34)(A35(A36(A37A38))))(((((((A39A40)A41)A42)A43)A44)A45)(A46(A47(A48(A49(A50(A51A52))))))))((((((((((((((((((((((A53A54)A55)A56)A57)A58)A59)A60)A61)A62)A63)A64)A65)A66)A67)A68)A69)A70)A71)A72)A73)A74)A75))A76)A77)A78))
+Time by DP: 0.000991 s
+
+n: 80
+Minimum matrix-chain manipulations by DP: 7547
+Record by DP: ((((((((((((((((((((((((((A1A2)A3)A4)A5)A6)A7)A8)A9)A10)A11)A12)A13)A14)A15)A16)A17)A18)A19)A20)A21)A22)A23)A24)A25)(A26(A27(A28(A29(A30(A31(A32(A33(A34(A35(A36(A37(A38(A39(A40(A41(A42(A43(A44(A45(A46(A47(A48(A49(A50(A51(A52(A53(A54(A55(A56(A57(A58(A59(A60(A61(A62(A63(A64(A65(A66(A67(A68(A69(A70(A71(A72(A73(A74(A75(A76A77))))))))))))))))))))))))))))))))))))))))))))))))))))(A78A79))
+Time by DP: 0.001028 s
+
+n: 81
+Minimum matrix-chain manipulations by DP: 7047
+Record by DP: ((A1(A2(A3(A4(A5(A6(A7(A8(A9(A10(A11(A12(A13A14)))))))))))))(((((((((((((((((((((((((((((((((A15A16)(A17(A18(A19(A20(A21(A22(A23(A24(A25A26))))))))))(((((A27A28)A29)A30)A31)(A32A33)))(((((((((((((((((A34A35)A36)A37)A38)A39)A40)A41)A42)A43)A44)A45)A46)A47)A48)A49)A50)A51))A52)A53)A54)A55)A56)A57)A58)A59)A60)A61)A62)A63)A64)A65)A66)A67)A68)A69)A70)A71)A72)A73)A74)A75)A76)A77)A78)A79)A80))
+Time by DP: 0.001045 s
+
+n: 82
+Minimum matrix-chain manipulations by DP: 7880
+Record by DP: (((A1(A2(A3(A4A5))))(((A6A7)(A8(A9(A10(A11(A12(A13(A14A15))))))))(((((A16A17)A18)A19)A20)(((((((((((((A21A22)A23)A24)A25)A26)A27)A28)A29)A30)A31)A32)(A33(A34A35)))((((((A36A37)A38)A39)A40)A41)(A42(A43(A44(A45(A46(A47(A48(A49(A50(A51(A52(A53(A54(A55(A56(A57(A58(A59(A60(A61(A62A63))))))))))))))))))))))))))(((((((((((((((((A64A65)A66)A67)A68)A69)A70)A71)A72)A73)A74)A75)A76)A77)A78)A79)A80)A81))
+Time by DP: 0.001084 s
+
+n: 83
+Minimum matrix-chain manipulations by DP: 10140
+Record by DP: ((A1(A2(A3(A4(A5(A6(A7(A8(A9(A10(A11(A12(A13(A14(A15(A16(A17(A18(A19(A20(A21(A22(A23(A24(A25(A26(A27(A28(A29(A30(A31(A32(A33(A34(A35(A36(A37(A38(A39(A40(A41(A42((A43(A44(A45(A46(A47(A48A49))))))((((((((((((((A50A51)A52)A53)A54)A55)A56)A57)A58)A59)A60)A61)A62)(A63(A64(A65(A66(A67(A68(A69(A70(A71(A72(A73(A74A75)))))))))))))(A76(A77(A78A79)))))))))))))))))))))))))))))))))))))))))))))))((A80A81)A82))
+Time by DP: 0.001124 s
+
+n: 84
+Minimum matrix-chain manipulations by DP: 8882
+Record by DP: ((A1(A2(A3(A4(A5(A6(A7(A8(A9(A10(A11(A12(A13((A14(A15(A16(A17(A18(A19(A20(A21(A22(A23(A24(A25(A26(A27(A28(A29(A30(A31A32))))))))))))))))))((((((((((A33A34)A35)A36)A37)A38)A39)A40)A41)(A42(A43(A44(A45(A46(A47(A48(A49(A50(A51(A52(A53(A54(A55(A56(A57(A58(A59(A60(A61(A62(A63(A64(A65(A66(A67(A68(A69(A70(A71(A72A73))))))))))))))))))))))))))))))))(((A74A75)A76)(A77(A78(A79A80)))))))))))))))))))((A81A82)A83))
+Time by DP: 0.001166 s
+
+n: 85
+Minimum matrix-chain manipulations by DP: 9613
+Record by DP: ((A1(A2(A3(A4(A5(A6(A7(A8(A9(A10(A11A12)))))))))))(((((A13(A14(A15(A16(A17(A18(A19(A20(A21(A22(A23(A24(A25(A26(A27(A28A29))))))))))))))))(((((((((A30A31)A32)A33)A34)A35)A36)A37)(A38(A39(A40(A41(A42(A43(A44(A45(A46(A47(A48A49))))))))))))(A50A51)))((((((((((((((((((((((((((((((A52A53)A54)A55)A56)A57)A58)A59)A60)A61)A62)A63)A64)A65)A66)A67)A68)A69)A70)A71)A72)A73)A74)A75)A76)A77)A78)A79)A80)A81)A82))A83)A84))
+Time by DP: 0.001202 s
+
+n: 86
+Minimum matrix-chain manipulations by DP: 8297
+Record by DP: ((A1(A2(A3(A4(A5(A6(A7A8)))))))(((((((((((((((((((((((((((((((((((((((A9A10)A11)A12)A13)A14)A15)A16)A17)A18)A19)A20)A21)A22)A23)A24)A25)A26)A27)A28)A29)A30)A31)A32)A33)A34)A35)A36)A37)A38)A39)(A40(A41(A42(A43(A44(A45(A46(A47(A48A49))))))))))((((A50A51)A52)A53)((A54A55)((A56A57)(A58(A59(A60(A61(A62(A63(A64(A65(A66(A67(A68(A69(A70(A71(A72(A73A74))))))))))))))))))))((((A75A76)A77)A78)A79))A80)A81)A82)A83)A84)A85))
+Time by DP: 0.001239 s
+
+n: 87
+Minimum matrix-chain manipulations by DP: 11363
+Record by DP: ((A1(A2A3))(((((((((((((((((((((((((((A4(A5(A6(A7A8))))(((((((A9A10)A11)A12)A13)A14)A15)(A16(A17(A18(A19(A20(A21(A22(A23(A24(A25(A26(A27(A28(A29(A30(A31(A32(A33A34))))))))))))))))))))(((((((((((((((((((((((((((A35A36)A37)A38)A39)A40)A41)A42)A43)A44)A45)A46)A47)A48)A49)A50)A51)A52)A53)A54)A55)A56)A57)A58)A59)A60)A61)A62))A63)A64)A65)A66)A67)A68)A69)A70)A71)A72)A73)A74)A75)A76)A77)A78)A79)A80)A81)A82)A83)A84)A85)A86))
+Time by DP: 0.001279 s
+
+n: 88
+Minimum matrix-chain manipulations by DP: 9815
+Record by DP: ((A1(A2(A3(A4(A5(A6(A7(A8(A9A10)))))))))(((((((((((((A11A12)A13)A14)A15)A16)A17)(A18(A19(A20(A21(A22A23))))))(((((((((((((((((((((((A24A25)A26)A27)A28)A29)A30)A31)A32)A33)A34)A35)A36)A37)A38)A39)A40)A41)A42)A43)A44)A45)(A46(A47A48)))((((((((((((((A49A50)A51)A52)A53)A54)A55)A56)A57)A58)A59)A60)A61)A62)(A63(A64(A65(A66(A67(A68(A69(A70(A71(A72(A73(A74(A75A76))))))))))))))))((((((A77A78)A79)A80)A81)A82)A83))A84)A85)A86)A87))
+Time by DP: 0.001387 s
+
+n: 89
+Minimum matrix-chain manipulations by DP: 9911
+Record by DP: (A1(((((((((((((((((((((A2((((A3A4)A5)(A6(A7(A8(A9(A10(A11(A12(A13(A14(A15(A16(A17A18)))))))))))))((((A19A20)A21)(A22(A23(A24(A25(A26(A27(A28(A29(A30(A31(A32(A33(A34(A35(A36A37))))))))))))))))(((((((((((((((((((A38A39)A40)A41)A42)A43)A44)A45)A46)A47)A48)A49)A50)A51)A52)A53)A54)A55)A56)(A57(A58(A59(A60(A61(A62A63))))))))))(((((A64A65)A66)A67)A68)A69))A70)A71)A72)A73)A74)A75)A76)A77)A78)A79)A80)A81)A82)A83)A84)A85)A86)A87)A88))
+Time by DP: 0.001461 s
+
+n: 90
+Minimum matrix-chain manipulations by DP: 9096
+Record by DP: ((A1(A2(A3(A4(A5(A6(A7(A8(A9(A10(A11(A12(A13(A14(A15(A16(A17(A18(A19(A20(A21(A22(A23(A24(A25(A26(A27(A28(A29(A30A31))))))))))))))))))))))))))))))((((((((((((((A32A33)A34)A35)A36)A37)(A38(A39(A40(A41(A42(A43(A44(A45(A46(A47(A48(A49(A50(A51(A52(A53(A54(A55(A56(A57(A58A59))))))))))))))))))))))((((((((((((((((((((((A60A61)A62)A63)A64)A65)A66)A67)A68)A69)A70)A71)A72)A73)A74)A75)A76)A77)A78)A79)A80)A81)A82))A83)A84)A85)A86)A87)A88)A89))
+Time by DP: 0.00142 s
+
+n: 91
+Minimum matrix-chain manipulations by DP: 10261
+Record by DP: (A1(((((((((((((((((((((((((((((((((((((((((((((((((A2A3)A4)A5)A6)(A7(A8(A9(A10A11)))))(((A12A13)A14)(A15A16)))(((((((((((((((((((((((((((((((A17A18)A19)A20)A21)A22)A23)A24)A25)A26)A27)A28)A29)A30)A31)A32)A33)A34)A35)A36)A37)A38)A39)A40)A41)A42)A43)A44)A45)A46)A47)A48))A49)A50)A51)A52)A53)A54)A55)A56)A57)A58)A59)A60)A61)A62)A63)A64)A65)A66)A67)A68)A69)A70)A71)A72)A73)A74)A75)A76)A77)A78)A79)A80)A81)A82)A83)A84)A85)A86)A87)A88)A89)A90))
+Time by DP: 0.00149 s
+
+n: 92
+Minimum matrix-chain manipulations by DP: 8737
+Record by DP: ((A1A2)(((((((A3A4)(A5(A6(A7(A8(A9(A10(A11A12))))))))((((((((((A13A14)A15)A16)A17)A18)A19)A20)A21)(A22(A23(A24(A25(A26(A27(A28A29))))))))((((((((((A30A31)A32)A33)A34)A35)A36)A37)A38)(A39(A40(A41(A42(A43(A44A45)))))))((((((((((((((((((((A46A47)A48)A49)A50)A51)A52)A53)A54)A55)A56)A57)A58)A59)A60)A61)A62)A63)A64)(A65(A66(A67(A68(A69(A70A71)))))))((((A72A73)A74)(A75(A76(A77(A78(A79(A80A81)))))))(A82(A83A84)))))))(((A85A86)A87)A88))A89)A90)A91))
+Time by DP: 0.001835 s
+
+n: 93
+Minimum matrix-chain manipulations by DP: 11749
+Record by DP: ((A1(A2(A3(A4(A5A6)))))((((((((A7A8)A9)A10)(A11(A12(A13A14))))((((((((A15A16)A17)A18)A19)A20)A21)(A22(A23(A24(A25(A26(A27(A28(A29(A30(A31(A32(A33(A34(A35(A36(A37(A38(A39(A40(A41A42)))))))))))))))))))))((((((((((((((((((((((((((((((((A43A44)A45)A46)A47)A48)A49)A50)A51)A52)A53)A54)A55)A56)A57)A58)A59)A60)A61)A62)A63)A64)A65)A66)A67)A68)A69)A70)A71)A72)A73)(A74(A75(A76(A77(A78(A79(A80(A81(A82(A83(A84(A85A86)))))))))))))(A87A88))))(A89A90))A91)A92))
+Time by DP: 0.001885 s
+
+n: 94
+Minimum matrix-chain manipulations by DP: 9722
+Record by DP: ((A1(A2(A3(A4(A5(A6(A7(A8(A9(A10(A11(A12(A13(A14A15))))))))))))))(((((((((((((((((((((A16A17)A18)A19)A20)(A21(A22(A23(A24(A25(A26(A27A28))))))))((((A29A30)A31)(A32(A33(A34(A35(A36(A37(A38(A39(A40(A41(A42(A43(A44(A45(A46A47))))))))))))))))((((((((((((A48A49)A50)A51)A52)A53)A54)A55)A56)A57)A58)(A59(A60(A61(A62(A63(A64A65)))))))((A66A67)(A68(A69(A70(A71(A72A73)))))))))(((((A74A75)A76)A77)A78)A79))A80)A81)A82)A83)A84)A85)A86)A87)A88)A89)A90)A91)A92)A93))
+Time by DP: 0.001663 s
+
+n: 95
+Minimum matrix-chain manipulations by DP: 9579
+Record by DP: ((A1(A2(A3A4)))((((((((((((((A5A6)(A7(A8(A9(A10(A11(A12(A13(A14A15)))))))))((((((A16A17)A18)A19)A20)(A21(A22(A23(A24(A25(A26(A27(A28A29)))))))))(((A30A31)(A32A33))((((A34A35)A36)(A37(A38(A39(A40(A41(A42(A43(A44(A45(A46(A47(A48(A49(A50A51)))))))))))))))(((A52A53)(A54A55))((A56(A57(A58(A59(A60(A61(A62(A63(A64(A65(A66(A67A68))))))))))))((((((A69A70)A71)A72)A73)A74)(A75(A76A77)))))))))((((((A78A79)A80)A81)A82)A83)A84))A85)A86)A87)A88)A89)A90)A91)A92)A93)A94))
+Time by DP: 0.001698 s
+
+n: 96
+Minimum matrix-chain manipulations by DP: 11246
+Record by DP: ((A1(A2(A3(A4(A5(A6(A7(A8(A9(A10(A11A12)))))))))))((((((((A13A14)A15)(((((((((((((((((((((A16A17)A18)A19)A20)A21)A22)A23)A24)A25)A26)A27)A28)A29)A30)A31)A32)A33)A34)A35)(A36(A37A38)))((((((((((((((((((((((((((((A39A40)A41)A42)A43)A44)A45)A46)A47)A48)A49)A50)A51)A52)A53)A54)A55)A56)A57)A58)A59)A60)A61)A62)A63)A64)A65)A66)(A67(A68(A69(A70(A71A72))))))))((((((((((((((((((A73A74)A75)A76)A77)A78)A79)A80)A81)A82)A83)A84)A85)A86)A87)A88)A89)A90)A91))A92)A93)A94)A95))
+Time by DP: 0.001755 s
+
+n: 97
+Minimum matrix-chain manipulations by DP: 9797
+Record by DP: ((A1(A2(A3(A4(A5(A6(A7(A8(A9(A10(A11(A12(A13(A14(A15(A16(A17(A18(A19(A20(A21(A22(A23(A24(A25(A26(A27(A28(A29(A30A31))))))))))))))))))))))))))))))((((((((A32A33)A34)A35)(A36(A37A38)))((((((((A39A40)A41)A42)A43)A44)A45)(A46A47))(((A48A49)(A50A51))((((A52A53)A54)(A55(A56A57)))(((((((A58A59)A60)A61)A62)A63)(A64A65))(((((A66A67)A68)A69)A70)(A71(A72(A73(A74(A75(A76(A77(A78(A79(A80(A81(A82(A83(A84(A85(A86(A87(A88(A89(A90(A91(A92A93))))))))))))))))))))))))))))A94)A95)A96))
+Time by DP: 0.00182 s
+
+n: 98
+Minimum matrix-chain manipulations by DP: 11510
+Record by DP: ((A1(A2(A3(A4(A5(A6(A7(A8(A9(A10(A11(A12(A13(A14(A15(A16(A17(A18(A19(A20(A21(A22(A23(A24(A25(A26(A27(A28(A29(A30(A31(A32(A33(A34(A35(A36(A37(A38((A39(A40(A41A42)))(((((A43A44)A45)A46)(A47(A48(A49(A50A51)))))((A52(A53(A54(A55(A56(A57(A58(A59(A60(A61(A62(A63(A64(A65(A66(A67(A68(A69(A70(A71(A72(A73(A74(A75(A76A77)))))))))))))))))))))))))(((((((A78A79)A80)A81)A82)A83)(A84(A85(A86(A87(A88(A89A90)))))))(((A91A92)A93)(A94(A95A96)))))))))))))))))))))))))))))))))))))))))))))A97)
+Time by DP: 0.001867 s
+
+n: 99
+Minimum matrix-chain manipulations by DP: 13687
+Record by DP: ((A1(A2(A3(A4A5))))(((((((((((((((((((((((((((A6A7)A8)A9)A10)(A11(A12(A13(A14A15)))))(((((((((((((((((((((((((((((((((A16A17)A18)A19)A20)A21)A22)A23)A24)A25)A26)A27)A28)A29)A30)A31)A32)A33)A34)A35)A36)A37)A38)A39)A40)A41)A42)A43)A44)A45)A46)A47)A48)(A49(A50(A51(A52(A53(A54(A55(A56(A57(A58(A59A60)))))))))))))(((((((((((((((((A61A62)A63)A64)A65)A66)A67)A68)A69)A70)A71)A72)A73)A74)A75)A76)A77)A78))A79)A80)A81)A82)A83)A84)A85)A86)A87)A88)A89)A90)A91)A92)A93)A94)A95)A96)A97)A98))
+Time by DP: 0.00195 s
+
+n: 100
+Minimum matrix-chain manipulations by DP: 12355
+Record by DP: ((A1(A2(A3(A4(A5(A6(A7(A8(A9(A10(A11(A12(A13((A14(A15(A16(A17(A18(A19(A20(A21(A22(A23(A24(A25(A26(A27A28))))))))))))))(A29((A30(A31(A32(A33A34))))((((A35A36)A37)(A38A39))(((((((((A40A41)A42)A43)A44)A45)A46)A47)(A48(A49(A50(A51(A52(A53(A54(A55A56)))))))))((((((((((((((A57A58)A59)A60)A61)A62)A63)A64)A65)A66)A67)A68)A69)A70)(A71(A72(A73(A74(A75(A76(A77(A78(A79(A80(A81(A82(A83(A84(A85(A86(A87(A88(A89A90))))))))))))))))))))))))))))))))))))))((((((((A91A92)A93)A94)A95)A96)A97)A98)A99))
+Time by DP: 0.002038 s
